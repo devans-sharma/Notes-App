@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.react-calendar {
+  width: 0;
+  background: #000000;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 24px;
+  padding: 5px;
+  height: 00px;
+}
